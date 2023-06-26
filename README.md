@@ -15,12 +15,12 @@ it to the appropriate subject.
 PAGE 1
 
 
-#### Pretrained APIs used
-###### • Cloud Vision 
+### Pretrained APIs used
+## • Cloud Vision 
 To identify the Text present in the Image.
-###### • Text to speech
+## • Text to speech
 To convert the text we obtained from the image to an audio file.
 ###### • Translate
 To translate the text we obtained to any language chosen.
-###### • Natural language
+## • Natural language
 To analyze the text read.

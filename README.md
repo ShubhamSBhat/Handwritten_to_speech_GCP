@@ -24,3 +24,6 @@ To convert the text we obtained from the image to an audio file.
 To translate the text we obtained to any language chosen.
 ## • Natural language
 To analyze the text read.
+
+
+![image](https://github.com/ShubhamSBhat/Handwritten_to_speech_GCP/assets/105477488/b75d462e-c4e5-4d34-a96e-9423baf1830d)

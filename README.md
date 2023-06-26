@@ -20,7 +20,7 @@ PAGE 1
 To identify the Text present in the Image.
 ## • Text to speech
 To convert the text we obtained from the image to an audio file.
-###### • Translate
+## • Translate
 To translate the text we obtained to any language chosen.
 ## • Natural language
 To analyze the text read.
